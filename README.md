@@ -17,6 +17,7 @@ This project was created to practice JavaScript, DOM manipulation, and event han
 * CSS3
 * JavaScript (ES6)
 
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
